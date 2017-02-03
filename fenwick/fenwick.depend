@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472316019 source:/home/ilyess/Documents/ilyess++/competitive/fenwick/main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471370053 source:/home/ilyess/Documents/ilyess++/competitive/10901/main.cpp
+	<iostream>
+	<string>
+	<queue>
+

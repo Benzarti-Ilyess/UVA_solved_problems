@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1469624296 source:/home/ilyess/Documents/ilyess++/competitive/11507/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<string>
+

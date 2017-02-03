@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471099517 source:/home/ilyess/Documents/ilyess++/competitive/790/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+

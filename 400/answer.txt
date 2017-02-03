@@ -1,0 +1,24 @@
+------------------------------------------------------------
+12345678.123         size-1
+2short4me            size2
+mid_size_name        size3
+much_longer_name     tiny
+shorter              very_long_file_name
+------------------------------------------------------------
+Alfalfa              Joe
+Buckwheat            Mrs_Crabapple
+Butch                P.D.
+Cotton               Porky
+Darla                Stimey
+Froggy               Weaser
+------------------------------------------------------------
+Alice                Keith
+Bobby                Lori
+Buffy                Marsha
+Carol                Mike
+Chris                Mr._French
+Cindy                Peter
+Danny                Ruben
+Greg                 Shirley
+Jan                  Sissy
+Jody
